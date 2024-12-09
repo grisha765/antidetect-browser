@@ -5,3 +5,5 @@ __pycache__/
 proxy_auth_extension/
 
 *.log
+
+*.env
