@@ -1,0 +1,7 @@
+__pycache__/
+
+.venv/
+
+proxy_auth_extension/
+
+*.log
