@@ -9,6 +9,7 @@ class Config:
     proxy_pass: str = 'passwd'
     url: str = 'https://browserleaks.com'
     chromedriver_path: str = '/usr/bin/chromedriver'
+    cookies_path: str = './cookies/'
 
     @classmethod
     def load_from_env(cls):
